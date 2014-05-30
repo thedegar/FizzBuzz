@@ -1,4 +1,5 @@
 $(document).ready(function(){
+	//define a variable to use to store text
 	var text = 0;
 	for (var i=1;i<=100;i++) {
 		//If divisible by 3 and 5 (aka 15), use "fizz buzz"
